@@ -6,6 +6,6 @@ I fixed the bug with the map, so now it renders less often, so in theory it won'
 
 Changelog 2025.09.23. #2
 
-I increased the speed so that you can test it in a maximum of 3 minute, but there may be a bug that prevents you from starting a new route immediately afterwards unless you refresh the page (I can't fix this, it works fine at normal speed).
+I increased the speed so that you can test it in a maximum of a few minutes, but there may be a bug that prevents you from starting a new route immediately afterwards unless you refresh the page (I can't fix this, it works fine at normal speed).
 
 Storage does not work directly because this is a focus-enhancing system. This way, you don't mess with it.
