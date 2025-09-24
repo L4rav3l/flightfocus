@@ -9,3 +9,7 @@ Changelog 2025.09.23. #2
 I increased the speed so that you can test it in a maximum of a few minutes, but there may be a bug that prevents you from starting a new route immediately afterwards unless you refresh the page (I can't fix this, it works fine at normal speed).
 
 Storage does not work directly because it is a focus aid. Because of this, you do not need to manage it while "traveling."
+
+Changelog 2025.09.24.
+
+You can now finish the flight. I fixed the rendering problem and the flight time is now much more accurate (it is not possible to be much more accurate at such high speeds). The route storage function is not available. 
