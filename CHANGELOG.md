@@ -1,3 +1,7 @@
+Information
+
+In order for the history to work, the flight must be completed in full. Flights are not stored directly when moving between pages.
+
 Changelog 2025.09.23. #1
 
 I fixed the bug that threw me back to the login window (more specifically, I accidentally forgot to limit it to checking the token's validity only once, so it used to constantly check if it was valid).
